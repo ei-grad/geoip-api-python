@@ -22,7 +22,7 @@ Scikit-build-core fork
 Setuptools is known for its poor backward compatibility. Some newer versions of
 setuptools fail to handle the metadata of the GeoIP package during the build
 process. This is a fork of the original GeoIP package that uses
-[scikit-build-core](https://scikit-build-core.readthedocs.io) to build the C
+`scikit-build-core <https://scikit-build-core.readthedocs.io>`_ to build the C
 extension instead of setuptools.
 
 Requirements
