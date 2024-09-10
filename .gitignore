@@ -16,3 +16,5 @@ nose*.egg/
 pylint.txt
 valgrind-python.supp
 violations.pyflakes.txt
+CMakeCache.txt
+CMakeFiles/
